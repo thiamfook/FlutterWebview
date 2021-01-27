@@ -1,3 +1,6 @@
+// This file is obsolete
+// New splash screen set in "launch_background.xml"
+
 import 'dart:async';
 
 import 'package:flutter/material.dart';

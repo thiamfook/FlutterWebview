@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'features/presentation/pages/splash_page.dart';
+import 'features/presentation/pages/main_page.dart';
 
 void main() {
 //  runApp(MyApp());
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false, // Hide the debug banner
-    home: SplashPage(),
+    home: MainPage(),
   ));
 }
 
